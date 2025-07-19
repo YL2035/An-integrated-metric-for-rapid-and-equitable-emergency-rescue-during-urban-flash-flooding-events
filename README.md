@@ -1,4 +1,7 @@
 # An-integrated-metric-for-rapid-and-equitable-emergency-rescue-during-urban-flash-flooding-events
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16181676.svg)](https://doi.org/10.5281/zenodo.16181676)
+
 This repository provides code for the journal paper "An integrated metric for rapid and equitable emergency rescue during urban flash flooding events." DOI: https://doi.org/10.1016/j.ijdrr.2025.105209
 The file contains two main parts, the integrated metric calculation and the rescue boat allocation. For each of these parts, code, data and results are provided.
 
